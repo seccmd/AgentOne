@@ -172,9 +172,9 @@ self.tools["my_tool"] = MyTool()
 
 ## 运行截图
 
-![示例图片1](examples/1.png)
-![示例图片2](examples/2.png)
-![示例图片3](examples/3.png)
+<img src="examples/1.png" alt="示例图片01" width="700">
+<img src="examples/2.png" alt="示例图片02" width="700">
+<img src="examples/3.png" alt="示例图片03" width="700">
 
 ## 🤝 贡献
 
